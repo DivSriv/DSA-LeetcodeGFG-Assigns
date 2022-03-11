@@ -1,12 +1,12 @@
 # DSA-LeetcodeGFG-Assigns
 
-# DSA Assignments Markdown Task List
+## DSA Assignments Markdown Task List
 
-# For tracking my progress
+## For tracking my progress
 > Problems on Various Topics from Leetcode 
 > GeeksForGeeks
 > Hackerrank
 > Other Resources
 
 
-## Credits - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+### Credits - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java

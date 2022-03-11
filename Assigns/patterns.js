@@ -15,7 +15,7 @@ let pattern1 = function(){
     console.log(count)
     }
 };
-pattern1();
+
 /*
 2.  *
     **

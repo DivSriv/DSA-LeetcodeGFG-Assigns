@@ -1,10 +1,10 @@
-```
+/*
 1.  *****
     *****
     *****
     *****
     *****
-```
+*/
 let pattern1 = function(){
     let n=5;
     for(let row = 1; row <= n; row++){
@@ -15,14 +15,14 @@ let pattern1 = function(){
     console.log(count)
     }
 };
-
-```
+pattern1();
+/*
 2.  *
     **
     ***
     ****
     *****
-```    
+*/ 
 let pattern2 = function(){
     let n=5;
     for(let row = 1; row <= n; row++){
@@ -34,13 +34,13 @@ let pattern2 = function(){
     }
 };
 
-```
+/*
 3.  *****
     ****
     ***
     **
     *
-``` 
+*/
 let pattern3 = function(){
     let n=5;
     for(let row = 1; row <= n; row++){
@@ -52,13 +52,13 @@ let pattern3 = function(){
     }
 };
 
-```
+/*
 4.  1
     1 2
     1 2 3
     1 2 3 4
     1 2 3 4 5
-``` 
+*/
 let pattern4 = function(){
     let n=5;
     for(let row = 1; row <= n; row++){
@@ -70,7 +70,7 @@ let pattern4 = function(){
     }
 };
 
-```
+/*
 5.  *
     **
     ***
@@ -80,7 +80,7 @@ let pattern4 = function(){
     ***
     **
     *
-``` 
+*/
 let pattern5a = function(){
     let n=9;
     for(let row = 1; row <= Math.floor(n/2); row++){
@@ -111,13 +111,13 @@ let pattern5b = function(){
     }
 };
 
-```
+/*
 6.       *
         **
        ***
       ****
      *****
-``` 
+*/
 let pattern6 = function(){
     let n=5;
     for(let row = 1; row <= n; row++){

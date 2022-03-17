@@ -133,3 +133,49 @@ let pattern6 = function(){
         console.log(space + count)
     }
 };
+
+/*
+7.   *****
+      ****
+       ***
+        **
+         *
+*/
+let pattern7 = function(){
+  let n=5;
+  for(let row = 1; row <= n; row++){
+      let noOfSpaces = row-1;
+      let space =" "
+      for(let i = 0 ;i<noOfSpaces;i++){
+          space=space+" "
+      }
+      let count = ""
+      for(let col = 5; col>row-1; col--){
+        count=count+`*` // add * without space
+      }
+      console.log(space + count)
+  }
+};
+
+/*
+8.      *
+       ***
+      *****
+     *******
+    *********
+*/
+let pattern8 = function(){
+  let n=5;
+  for(let row = 1; row <= n; row++){
+      let noOfSpaces = n - row;
+      let space =" "
+      for(let i = 0 ;i<noOfSpaces;i++){
+          space=space+" "
+      }
+      let count = ""
+      for(let col = 1; col<=2*row-1; col++){
+        count=count+`*` // add * without space
+      }
+      console.log(space + count)
+  }
+};

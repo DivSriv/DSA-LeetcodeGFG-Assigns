@@ -179,3 +179,73 @@ let pattern8 = function(){
       console.log(space + count)
   }
 };
+
+/*
+9.  *********
+     *******
+      *****
+       ***
+        *
+*/
+let pattern9 = function(){
+  let n=5;
+  for(let row = 1; row <= n; row++){
+      let noOfSpaces = row-1;
+      let space =" "
+      for(let i = 0 ;i<noOfSpaces;i++){
+          space=space+" "
+      }
+      let count = ""
+      for(let col = 2*n-1; col>=2*row-1; col--){
+        count=count+`*` // add * without space
+      }
+      console.log(space + count)
+  }
+};
+
+/*
+10.      *
+        * *
+       * * *
+      * * * *
+     * * * * *
+*/
+let pattern10 = function(){
+  let n=5;
+  for(let row = 1; row <= n; row++){
+      let noOfSpaces = n - row;
+      let space =" "
+      for(let i = 0 ;i<noOfSpaces;i++){
+          space=space+" "
+      }
+      let count = ""
+      for(let col = 1; col<=row; col++){
+        count=count+` *` // add * with space
+      }
+      console.log(space + count)
+  }
+};
+
+/*
+11.  * * * * *
+      * * * *
+       * * *
+        * *
+         *
+*/
+let pattern11 = function(){
+let n=5;
+for(let row = 1; row <= n; row++){
+    let noOfSpaces = row-1;
+    let space =" "
+    for(let i = 0 ;i<noOfSpaces;i++){
+        space=space+" "
+    }
+    let count = ""
+    for(let col = 5; col>row-1; col--){
+      count=count+` *` // add * with space
+    }
+    console.log(space + count)
+}
+};
+// pattern11();

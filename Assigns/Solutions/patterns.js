@@ -248,4 +248,18 @@ for(let row = 1; row <= n; row++){
     console.log(space + count)
 }
 };
+/*
+12.  * * * * *
+      * * * *
+       * * *
+        * *
+         *
+         *
+        * *
+       * * *
+      * * * *
+     * * * * *
+*/
+
+
 // pattern11();

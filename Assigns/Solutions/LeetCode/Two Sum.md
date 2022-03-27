@@ -39,9 +39,9 @@ var twoSum = function(nums, target) {
 //OR
 
 var twoSum = function(nums, target) {
-    const n = nums.length;
-    let match = false;
-    for (let i = 0, j = n - 1; i <= j && !match; i++, j--) {
+    let match = false
+    
+    for (let i = 0, j = nums.length - 1; i <= j && !match; i++, j--) {
         let diff1 = target - nums[i]
         let index1 = nums.indexOf(diff1)
         let diff2 = target - nums[j]
@@ -49,7 +49,7 @@ var twoSum = function(nums, target) {
         
         if (index1 > -1 && index1 !== i) {
             match = true
-            return [i, idx1]
+            return [i, index1]
         }
         if (index2 > -1 && index2 !== j) {
             match = true

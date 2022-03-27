@@ -53,7 +53,7 @@ var twoSum = function(nums, target) {
         }
         if (index2 > -1 && index2 !== j) {
             match = true
-            return [j, iindex2]
+            return [j, index2]
         }
     }
     

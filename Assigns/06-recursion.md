@@ -3,7 +3,7 @@
 ## Easy
 - [x] [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [x] [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [ ] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
+- [x] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
 - [ ] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
 - [ ] [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`

@@ -13,7 +13,7 @@ Result = 32 - 11 = 21
 
 Constraints:
 
-- 1 <= n <= 10^
+-> 1 <= n <= 10^5
 ```
 
 Solution:

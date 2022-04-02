@@ -1,9 +1,9 @@
 # Questions
 
 ## Easy
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [ ] [Majority Element](https://leetcode.com/problems/majority-element/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)

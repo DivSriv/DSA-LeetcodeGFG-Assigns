@@ -1,5 +1,6 @@
 ## Beautiful Days at the Movies
 [ Beautiful Days at the Movies ](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem)
+![image](https://user-images.githubusercontent.com/72649014/162386085-ffb47184-e573-4b01-8f47-20c1cf656e93.png)
 
 
 

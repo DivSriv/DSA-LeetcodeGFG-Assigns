@@ -1,6 +1,7 @@
 ## Arrays - DS
 [ Arrays - DS ](https://www.hackerrank.com/challenges/arrays-ds/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162386983-b770f07e-4309-4e0e-a85b-bf19954afc35.png)
 
 
 Solution:

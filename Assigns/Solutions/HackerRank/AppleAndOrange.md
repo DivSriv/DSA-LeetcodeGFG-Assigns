@@ -1,6 +1,7 @@
 ## Apple and Orange
 [ Apple and Orange ](https://www.hackerrank.com/challenges/apple-and-orange/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162386461-13e94b9d-1131-4610-ba15-7e78f1fa4aee.png)
 
 
 Solution:

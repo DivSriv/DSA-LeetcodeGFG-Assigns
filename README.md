@@ -1,4 +1,4 @@
-# DSA-LeetcodeGFG-Assigns
+# DSA-LeetcodeGFGHackerRank
 
 ## DSA Assignments Markdown Task List
 
@@ -9,4 +9,4 @@
 > Other Resources
 
 
-### Credits - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
+<!-- ### Credits - https://github.com/kunal-kushwaha/DSA-Bootcamp-Java -->

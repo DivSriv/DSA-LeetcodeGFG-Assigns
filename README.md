@@ -1,6 +1,6 @@
 # DSA-LeetcodeGFGHackerRank
 
-## DSA Assignments Markdown Task List
+## DSA Markdown Task List
 
 ## For tracking my progress
 > Problems on Various Topics from Leetcode 

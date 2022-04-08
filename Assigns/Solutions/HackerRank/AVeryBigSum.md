@@ -1,5 +1,6 @@
 ## A Very Big Sum
 [ A Very Big Sum ](https://www.hackerrank.com/challenges/a-very-big-sum/problem)
+![image](https://user-images.githubusercontent.com/72649014/162385627-63ca17ff-a52d-4f58-8aa4-254e9e2d4786.png)
 
 
 

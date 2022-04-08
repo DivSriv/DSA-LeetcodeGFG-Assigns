@@ -1,6 +1,8 @@
 ## Compare the Triplets
 [ Compare the Triplets ](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162387580-e04548d0-4ae1-4e6b-8f10-ffcfa9a2db87.png)
+
 
 Solution:
 ```js

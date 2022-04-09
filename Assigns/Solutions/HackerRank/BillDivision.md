@@ -1,6 +1,7 @@
 ## Bill Division
 [ Bill Division ](https://www.hackerrank.com/challenges/bon-appetit/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162581570-4689edaf-d5f1-4e5b-b131-c653c66ec95e.png)
 
 
 

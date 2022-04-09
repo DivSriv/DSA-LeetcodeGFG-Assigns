@@ -1,7 +1,7 @@
 ## Breaking the Records
 [ Breaking the Records ](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem)
 
-
+![image](https://user-images.githubusercontent.com/72649014/162581594-b9dee829-30ab-40f9-bc88-894afd0bbd50.png)
 
 
 Solution:

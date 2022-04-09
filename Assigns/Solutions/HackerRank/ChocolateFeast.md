@@ -1,6 +1,7 @@
 ## Chocolate Feast
 [ Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162581664-56254c7b-1ba6-4e10-8959-f707f545f545.png)
 
 
 

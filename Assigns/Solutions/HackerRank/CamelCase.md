@@ -1,6 +1,7 @@
 ## CamelCase
 [ CamelCase ](https://www.hackerrank.com/challenges/camelcase/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162581623-0fc1b24d-ec87-4a77-b77f-0e5caab6b556.png)
 
 
 

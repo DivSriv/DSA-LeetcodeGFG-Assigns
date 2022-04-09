@@ -1,6 +1,7 @@
 ## Cats and a Mouse
 [ Cats and a Mouse ](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162581651-44735644-559a-4cdf-8b9c-d0260889713b.png)
 
 
 

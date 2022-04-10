@@ -1,6 +1,7 @@
 ## Day of the Programmer
 [ Day of the Programmer ](https://www.hackerrank.com/challenges/day-of-the-programmer/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162626448-9c189cc8-a827-4bb1-998a-cc9fd524dc63.png)
 
 
 Solution:

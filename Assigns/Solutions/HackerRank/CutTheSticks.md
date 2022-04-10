@@ -1,6 +1,7 @@
 ## Cut the sticks
 [ Cut the sticks ](https://www.hackerrank.com/challenges/cut-the-sticks/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162626432-6b50ab64-7233-4b83-b722-1b4fb4126c49.png)
 
 
 

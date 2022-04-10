@@ -1,6 +1,7 @@
 ## Diagonal Difference
 [ Diagonal Difference ](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162626467-1e2c3ef1-d010-4b7a-8c34-7960b32e3e56.png)
 
 
 Solution:

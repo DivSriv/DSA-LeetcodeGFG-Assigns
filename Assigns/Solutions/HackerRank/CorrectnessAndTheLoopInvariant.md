@@ -1,6 +1,7 @@
 ## Correctness and the Loop Invariant
 [ Correctness and the Loop Invariant ](https://www.hackerrank.com/challenges/correctness-invariant/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162626367-a4ed9b0f-2dd2-4c93-9dcf-3db6291b3b80.png)
 
 
 

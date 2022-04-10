@@ -1,6 +1,7 @@
 ## Counting Valleys
 [ Counting Valleys ](https://www.hackerrank.com/challenges/counting-valleys/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162626398-9f3d5654-586d-4ade-ad17-c3355cd40072.png)
 
 
 Solution:

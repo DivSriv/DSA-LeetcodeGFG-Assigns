@@ -1,7 +1,7 @@
 ## Flipping bits
 [ Flipping bits ](https://www.hackerrank.com/challenges/flipping-bits/problem)
 
-
+![image](https://user-images.githubusercontent.com/72649014/162671741-fa177107-9a29-418b-8e2a-58901dfd05c1.png)
 
 
 Solution:

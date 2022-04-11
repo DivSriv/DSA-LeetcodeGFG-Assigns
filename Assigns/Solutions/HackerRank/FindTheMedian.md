@@ -1,6 +1,7 @@
 ## Find the Median
 [ Find the Median ](https://www.hackerrank.com/challenges/find-the-median/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162671826-34cfdb89-d49f-4488-8158-616df7185845.png)
 
 
 

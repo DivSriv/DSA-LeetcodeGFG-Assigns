@@ -1,6 +1,7 @@
 ## Find Digits
 [ Find Digits ](https://www.hackerrank.com/challenges/find-digits/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162671703-d54ddd53-bd51-4ae7-a4a6-1af7c9d180eb.png)
 
 
 

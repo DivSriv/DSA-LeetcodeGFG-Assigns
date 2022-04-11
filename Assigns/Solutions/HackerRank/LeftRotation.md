@@ -1,6 +1,8 @@
 ## Left Rotation
 [ Left Rotation ](https://www.hackerrank.com/challenges/array-left-rotation/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162672160-086a6373-15cb-49e0-a70f-d9a93a0b8db7.png)
+
 
 Solution:
 ```js

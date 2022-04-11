@@ -1,6 +1,7 @@
 ## Extra Long Factorials
 [ Extra Long Factorials ](https://www.hackerrank.com/challenges/extra-long-factorials/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/162671663-2a1680d5-45a3-4571-a654-65b20288bbed.png)
 
 
 

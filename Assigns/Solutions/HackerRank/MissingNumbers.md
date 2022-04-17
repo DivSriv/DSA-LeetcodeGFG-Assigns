@@ -1,6 +1,7 @@
 ## Missing Numbers
 [ Missing Numbers ](https://www.hackerrank.com/challenges/missing-numbers/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718549-9cb943e0-62f2-40f4-9453-f00ca1f28e92.png)
 
 
 

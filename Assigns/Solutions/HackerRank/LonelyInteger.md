@@ -1,6 +1,7 @@
 ## Lonely Integer
 [ Lonely Integer ](https://www.hackerrank.com/challenges/lonely-integer/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718519-61c48f03-5e82-459f-9f41-1f03746ab0e5.png)
 
 
 

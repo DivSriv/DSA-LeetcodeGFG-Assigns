@@ -1,6 +1,7 @@
 ## Recursive Digit Sum
 [ Recursive Digit Sum ](https://www.hackerrank.com/challenges/recursive-digit-sum/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718610-f6bac660-036b-4ef1-adc0-29906e11cbc6.png)
 
 
 

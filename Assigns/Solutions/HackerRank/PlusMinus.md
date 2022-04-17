@@ -1,6 +1,7 @@
 ## Plus Minus
 [ Plus Minus ](https://www.hackerrank.com/challenges/plus-minus/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718594-d5758a0a-5adc-4df1-b0af-e399e66ffa4e.png)
 
 
 

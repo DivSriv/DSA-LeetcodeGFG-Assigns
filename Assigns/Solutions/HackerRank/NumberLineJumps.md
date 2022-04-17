@@ -1,6 +1,7 @@
 ## Number Line Jumps
 [ Number Line Jumps ](https://www.hackerrank.com/challenges/kangaroo/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718568-e149aba1-2ae0-4773-884c-5f380a87a258.png)
 
 
 

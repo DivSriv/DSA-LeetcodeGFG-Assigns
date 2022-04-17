@@ -1,6 +1,7 @@
 ## Maximizing XOR
 [ Maximizing XOR ](https://www.hackerrank.com/challenges/maximizing-xor/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718535-341ba6a6-ca36-42fd-9263-513bf6d684ab.png)
 
 
 

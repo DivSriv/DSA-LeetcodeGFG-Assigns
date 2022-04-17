@@ -1,6 +1,7 @@
 ## Pairs
 [ Pairs ](https://www.hackerrank.com/challenges/pairs/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163718583-654141c9-f5fd-4cef-86a5-c6a1667840d8.png)
 
 
 

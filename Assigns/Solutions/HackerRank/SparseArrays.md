@@ -1,6 +1,7 @@
 ## Sparse Arrays
 [ Sparse Arrays ](https://www.hackerrank.com/challenges/sparse-arrays/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767843-79bcad9c-9d4d-471d-a932-e1c8ccf0d457.png)
 
 
 Solution:

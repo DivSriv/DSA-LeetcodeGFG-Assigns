@@ -1,6 +1,7 @@
 ## Sum vs XOR
 [ Sum vs XOR ](https://www.hackerrank.com/challenges/sum-vs-xor/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767932-b61bf305-7493-4e1b-9a31-731c69c7f0a2.png)
 
 
 

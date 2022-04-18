@@ -1,6 +1,7 @@
 ## Sherlock and Array
 [ Sherlock and Array ](https://www.hackerrank.com/challenges/sherlock-and-array/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767772-947ce224-9aa1-47bb-afad-ee38f0ec7d19.png)
 
 
 

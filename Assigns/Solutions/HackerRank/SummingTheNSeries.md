@@ -1,6 +1,7 @@
 ## Summing the N series
 [ Summing the N series ](https://www.hackerrank.com/challenges/summing-the-n-series/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767974-e9378031-fdd1-4236-be22-80d00858ae32.png)
 
 
 

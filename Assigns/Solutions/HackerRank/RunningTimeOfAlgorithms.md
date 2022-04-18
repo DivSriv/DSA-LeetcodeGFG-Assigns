@@ -1,6 +1,7 @@
 ## Running Time of Algorithms
 [ Running Time of Algorithms ](https://www.hackerrank.com/challenges/runningtime/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767737-1f86a2d8-3257-44a7-8c8e-e7712d151e48.png)
 
 
 

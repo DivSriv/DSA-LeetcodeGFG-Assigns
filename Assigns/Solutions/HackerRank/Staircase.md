@@ -1,6 +1,7 @@
 ## Staircase
 [ Staircase ](https://www.hackerrank.com/challenges/staircase/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767880-491bf615-ea3a-433d-9727-d8936852b061.png)
 
 
 

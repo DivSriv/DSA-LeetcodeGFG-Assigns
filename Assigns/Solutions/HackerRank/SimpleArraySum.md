@@ -1,6 +1,7 @@
 ## Simple Array Sum
 [ Simple Array Sum ](https://www.hackerrank.com/challenges/simple-array-sum/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163767807-944dca39-c675-494e-98ad-4050312593bb.png)
 
 
 Solution:

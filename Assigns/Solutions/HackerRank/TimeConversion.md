@@ -1,6 +1,7 @@
 ## Time Conversion
 [ Time Conversion ](https://www.hackerrank.com/challenges/time-conversion/problem)
 
+![image](https://user-images.githubusercontent.com/72649014/163768005-78fe6f9a-e4b0-4b04-9e4b-86276fb6b5d7.png)
 
 
 

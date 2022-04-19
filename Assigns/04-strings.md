@@ -14,10 +14,10 @@
 - [ ] [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [ ] [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
-- [ ] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
-- [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [x] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+- [x] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [ ] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [ ] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
@@ -26,7 +26,7 @@
 - [ ] [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [ ] [Length of last word](https://leetcode.com/problems/length-of-last-word/)
+- [x] [Length of last word](https://leetcode.com/problems/length-of-last-word/)
 
 ## Medium
 

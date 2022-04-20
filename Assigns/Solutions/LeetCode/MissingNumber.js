@@ -1,9 +1,8 @@
-## Missing Number
-[ Missing Number ](https://leetcode.com/problems/missing-number/)
+/* Missing Number(https://leetcode.com/problems/missing-number/)
 
 Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array.
 
-```
+
 Example 1:
 Input: nums = [3,0,1]
 Output: 2
@@ -24,10 +23,9 @@ Constraints:
 -> 1 <= n <= 104
 -> 0 <= nums[i] <= n
 -> All the numbers of nums are unique.
-```
+*/
 
-Solution:
-```js
+
 var missingNumber = function(nums) {
     let i = 0;
     while((i < nums.length) === true){
@@ -49,4 +47,4 @@ var missingNumber = function(nums) {
     }
     return nums.length;
 };
-```
+

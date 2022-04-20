@@ -1,5 +1,4 @@
-## Palindrome Number
-[ Palindrome Number ](https://leetcode.com/problems/palindrome-number/)
+/* Palindrome Number(https://leetcode.com/problems/palindrome-number/)
 
 Given an integer x, return true if x is palindrome integer.
 
@@ -7,7 +6,7 @@ An integer is a palindrome when it reads the same backward as forward.
 
 For example, 121 is a palindrome while 123 is not.
 
-```
+
 Example:
 Input: x = -121
 Output: false
@@ -21,10 +20,9 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 Constraints:
 
 -> -231 <= x <= 231 - 1
-```
+*/
 
-Solution:
-```js
+
 var isPalindrome = function(x) {
     var s = x;
     if(x < 0 || (x !== 0 && x % 10 == 0))
@@ -39,4 +37,4 @@ var isPalindrome = function(x) {
     
     return s === p;
 };
-```
+

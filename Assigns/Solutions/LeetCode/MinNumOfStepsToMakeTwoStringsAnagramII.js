@@ -1,12 +1,12 @@
-## Minimum Number of Steps to Make Two Strings Anagram II
-[ Minimum Number of Steps to Make Two Strings Anagram II ](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
+/* Minimum Number of Steps to Make Two Strings Anagram II
+(https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)
 
 You are given two strings s and t. In one step, you can append any character to either s or t.
 
 Return the minimum number of steps to make s and t anagrams of each other.
 
 An anagram of a string is a string that contains the same characters with a different (or the same) ordering.
-```
+
 Example 1:
 Input: s = "leetcode", t = "coats"
 Output: 7
@@ -25,10 +25,9 @@ Explanation: The given strings are already anagrams of each other. Thus, we do n
 Constraints:
 -> 1 <= s.length, t.length <= 2 * 105
 -> s and t consist of lowercase English letters.
-```
+*/
 
-Solution:
-```js
+
 var minSteps = function(s, t) {
     /*My answer passed 17/70 cases */
     
@@ -56,4 +55,4 @@ var minSteps = function(s, t) {
     console.log(result)
     return result  
 };
-```
+

@@ -1,11 +1,10 @@
-## First Missing Positive
-[ First Missing Positive ](https://leetcode.com/problems/first-missing-positive/)
+/* First Missing Positive(https://leetcode.com/problems/first-missing-positive/)
 
 Given an unsorted integer array nums, return the smallest missing positive integer.
 
 You must implement an algorithm that runs in O(n) time and uses constant extra space.
 
-```
+
 Example 1:
 Input: nums = [1,2,0]
 Output: 3
@@ -21,10 +20,9 @@ Output: 1
 Constraints:
 -> 1 <= nums.length <= 5 * 105
 -> -231 <= nums[i] <= 231 - 1
-```
+*/
 
-Solution:
-```js
+
 var firstMissingPositive = function(nums) {
     let i = 0;
     while(i<nums.length){
@@ -44,4 +42,4 @@ var firstMissingPositive = function(nums) {
     }
     return nums.length +1;
 };
-```
+

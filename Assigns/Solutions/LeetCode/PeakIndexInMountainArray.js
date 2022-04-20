@@ -1,5 +1,4 @@
-## Peak Index in a Mountain Array
-[ Peak Index in a Mountain Array ](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+/* Peak Index in a Mountain Array(https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 
 Let's call an array arr a mountain if the following properties hold:
 
@@ -11,7 +10,7 @@ There exists some i with 0 < i < arr.length - 1 such that:
 Given an integer array arr that is guaranteed to be a mountain, return any i such that:
     arr[0] < arr[1] < ... arr[i - 1] < arr[i] > arr[i + 1] > ... > arr[arr.length - 1].
 
-```
+
 Example:
 Input: x = -121
 Output: false
@@ -33,10 +32,9 @@ Constraints:
 -> 3 <= arr.length <= 104
 -> 0 <= arr[i] <= 106
 -> arr is guaranteed to be a mountain array.
-```
+*/
 
-Solution:
-```js
+
 var peakIndexInMountainArray = function(arr) {
     let start = 0;
     let end = arr.length - 1;
@@ -50,4 +48,4 @@ var peakIndexInMountainArray = function(arr) {
     }
     return start; 
 };
-```
+

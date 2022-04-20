@@ -1,5 +1,4 @@
-## Find Peak Element
-[ Find Peak Element ](https://leetcode.com/problems/find-peak-element/)
+/* Find Peak Element(https://leetcode.com/problems/find-peak-element/)
 
 A peak element is an element that is strictly greater than its neighbors.
 
@@ -9,7 +8,7 @@ You may imagine that nums[-1] = nums[n] = -∞.
 
 You must write an algorithm that runs in O(log n) time.
 
-```
+
 Example 1:
 Input: nums = [1,2,3,1]
 Output: 2
@@ -24,10 +23,9 @@ Constraints:
 -> 1 <= nums.length <= 1000
 -> -231 <= nums[i] <= 231 - 1
 -> nums[i] != nums[i + 1] for all valid i.
-```
+*/
 
-Solution:
-```js
+
 var findPeakElement = function(nums) {
     let start = 0;
     let end = nums.length - 1;
@@ -41,4 +39,4 @@ var findPeakElement = function(nums) {
     }
     return start;    
 };
-```
+

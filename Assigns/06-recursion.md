@@ -9,7 +9,7 @@
 - [x] [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
 - [x] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) `leetcode`
 - [x] [Special Fibonacci](https://www.codechef.com/problems/FIBXOR01/) `CodeChef`
-- [ ] [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
+- [x] [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/) `GFG`
 - [ ] [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
 - [ ] [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
 - [ ] [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`

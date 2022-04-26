@@ -37,7 +37,7 @@
 - [x] 4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] 5. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] 6. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
-- [ ] 7. [Jump Game](https://leetcode.com/problems/jump-game/)
+- [x] 7. [Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [ ] 10. [House Robber](https://leetcode.com/problems/house-robber/)

@@ -3,7 +3,7 @@
 ## Easy
 1. - [ ] - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
 2. - [ ] - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
-3. - [ ] - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
+3. - [x] - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
 4. - [ ] - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
 5. - [ ] - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
 6. - [ ] - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`

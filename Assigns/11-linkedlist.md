@@ -21,7 +21,7 @@
 6. - [ ] - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
 7. - [x] - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
 8. - [ ] - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
-9. - [ ] - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
+9. - [x] - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
 10. - [ ] - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
 11. - [ ] - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 12. - [ ] - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`

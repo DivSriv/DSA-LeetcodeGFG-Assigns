@@ -29,7 +29,7 @@
 14. - [ ] - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
 15. - [ ] - [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 16. - [ ] - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
-17. - [ ] - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG` --[`Same as Linked List Cycle II`](https://leetcode.com/problems/linked-list-cycle-ii/)
+17. - [x] - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG` --[`Same as Linked List Cycle II`](https://leetcode.com/problems/linked-list-cycle-ii/)
 18. - [ ] - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 19. - [ ] - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
 20. - [ ] - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`

@@ -3,7 +3,7 @@
 
 ## Easy
 - - [ ] [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
-- - [ ] [Happy Number.](https://leetcode.com/problems/happy-number/)
+- - [x] [Happy Number.](https://leetcode.com/problems/happy-number/) `Google`
 - - [x] [Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical)
 - - [x] [Power of Four](https://leetcode.com/problems/power-of-four/)
 - - [x] [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)

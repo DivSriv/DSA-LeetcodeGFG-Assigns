@@ -35,7 +35,7 @@
 20. - [ ] - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`
 21. - [ ] - [ Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
 22. - [ ] - [ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
-23. - [ ] - [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`
+23. - [x] - [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`
 24. - [ ] - [ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
 25. - [ ] - [Design Browser History](https://leetcode.com/problems/design-browser-history/)`leetcode`
 26. - [x] - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)`leetcode`

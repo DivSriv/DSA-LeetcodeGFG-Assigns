@@ -17,7 +17,7 @@
 2. - [ ] - [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
 3. - [x] - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 4. - [x] - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
-5. - [ ] - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
+5. - [x] - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
 6. - [ ] - [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
 7. - [x] - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
 8. - [ ] - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`

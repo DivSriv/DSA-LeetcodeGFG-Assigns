@@ -28,7 +28,7 @@
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [x] [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 - [x] [Reach a Number](https://leetcode.com/problems/reach-a-number/)
-- [ ] [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
+- [x] [Maximum Value at a Given Index in a Bounded Array](https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/)
 - [ ] [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [ ] [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) `***` `Revise`

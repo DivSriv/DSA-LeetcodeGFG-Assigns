@@ -35,7 +35,7 @@
 - [x] [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [x] [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [x] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [ ] [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard

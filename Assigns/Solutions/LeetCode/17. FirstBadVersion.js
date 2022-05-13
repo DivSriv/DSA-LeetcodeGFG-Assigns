@@ -22,7 +22,7 @@ Output: 1
 
 Constraints:
 
--  1 <= bad <= n <= 2^31 - 1
+->  1 <= bad <= n <= 2^31 - 1
 */
 
 

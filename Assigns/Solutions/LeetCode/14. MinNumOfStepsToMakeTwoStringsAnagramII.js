@@ -23,7 +23,7 @@ Output: 0
 Explanation: The given strings are already anagrams of each other. Thus, we do not need any further steps.
 
 Constraints:
--> 1 <= s.length, t.length <= 2 * 105
+-> 1 <= s.length, t.length <= 2 * 10^5
 -> s and t consist of lowercase English letters.
 */
 

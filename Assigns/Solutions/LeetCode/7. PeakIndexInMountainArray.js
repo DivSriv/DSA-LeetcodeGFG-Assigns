@@ -29,8 +29,8 @@ Input: arr = [0,10,5,2]
 Output: 1
 
 Constraints:
--> 3 <= arr.length <= 104
--> 0 <= arr[i] <= 106
+-> 3 <= arr.length <= 10^4
+-> 0 <= arr[i] <= 10^6
 -> arr is guaranteed to be a mountain array.
 */
 

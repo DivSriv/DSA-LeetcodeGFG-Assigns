@@ -18,8 +18,8 @@ Input: nums = [7,8,9,11,12]
 Output: 1
 
 Constraints:
--> 1 <= nums.length <= 5 * 105
--> -231 <= nums[i] <= 231 - 1
+-> 1 <= nums.length <= 5 * 10^5
+-> -2^31 <= nums[i] <= 2^31 - 1
 */
 
 

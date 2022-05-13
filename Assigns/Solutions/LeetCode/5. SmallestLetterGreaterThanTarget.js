@@ -21,7 +21,7 @@ Output: "f"
 
 Constraints:
 
--> 2 <= letters.length <= 104
+-> 2 <= letters.length <= 10^4
 -> letters[i] is a lowercase English letter.
 -> letters is sorted in non-decreasing order.
 -> letters contains at least two different characters.

@@ -8,7 +8,7 @@
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [x] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
-- [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
+- [x] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i/)
 - [x] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - [x] [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)

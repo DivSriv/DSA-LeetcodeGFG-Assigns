@@ -17,7 +17,7 @@
 - [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x] [Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)
 - [x] [Height Checker](https://leetcode.com/problems/height-checker/)
-- [ ] [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
+- [x] [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)
 - [ ] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 - [ ] [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/)
 - [ ] [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)

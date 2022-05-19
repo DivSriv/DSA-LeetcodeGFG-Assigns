@@ -34,7 +34,7 @@
 
 ## Medium
 - [x] [3 Sum](https://leetcode.com/problems/3sum/)
-- [ ] [3 Sum Closest](https://leetcode.com/problems/3sum-closest/)
+- [x] [3 Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [ ] [4 Sum](https://leetcode.com/problems/4sum/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)

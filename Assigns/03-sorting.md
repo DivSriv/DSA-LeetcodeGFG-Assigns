@@ -33,7 +33,7 @@
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
-- [ ] [3 Sum](https://leetcode.com/problems/3sum/)
+- [x] [3 Sum](https://leetcode.com/problems/3sum/)
 - [ ] [3 Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [ ] [4 Sum](https://leetcode.com/problems/4sum/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)

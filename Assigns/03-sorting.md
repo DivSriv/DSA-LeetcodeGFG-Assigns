@@ -36,7 +36,7 @@
 - [x] [3 Sum](https://leetcode.com/problems/3sum/)
 - [x] [3 Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [x] [4 Sum](https://leetcode.com/problems/4sum/)
-- [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+- [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 - [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [x] [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)

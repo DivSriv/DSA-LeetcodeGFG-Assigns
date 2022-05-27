@@ -10,7 +10,7 @@
 - - [x] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - - [x] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
 - - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
+- - [x] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 - - [x] [Add Binary](https://leetcode.com/problems/add-binary/)
 - - [x] [Power of Two](https://leetcode.com/problems/power-of-two/)
 

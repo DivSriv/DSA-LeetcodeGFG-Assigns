@@ -18,7 +18,7 @@
 - [x] [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)
 - [ ] [Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)
 - [x] [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
-- [ ] [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
+- [x] [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [ ] [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
 ## Medium

@@ -22,7 +22,7 @@
 - [ ] [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
 
 ## Medium
-- [ ] [Subsets](https://leetcode.com/problems/subsets/)
+- [x] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Subsets II](https://leetcode.com/problems/subsets-ii/)
 - [ ] [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [ ] [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)

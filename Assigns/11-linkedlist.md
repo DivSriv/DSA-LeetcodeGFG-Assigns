@@ -48,7 +48,7 @@
 ## Hard
 1. - [x] - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
 2. - [ ] - [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
-3. - [ ] - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
+3. - [x] - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
 4. - [ ] - [Clone a linked list with next and random pointer](https://www.geeksforgeeks.org/clone-linked-list-next-random-pointer-o1-space/) `GFG` `Google` `Flipkart`
 5. - [ ] - [All O'one Data Structure](https://leetcode.com/problems/all-oone-data-structure/) `leetcode`
 6. - [ ] - [Design Skiplist](https://leetcode.com/problems/design-skiplist/) `leetcode`

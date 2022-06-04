@@ -52,7 +52,7 @@
 
 ## Hard
 
-- [ ] [Valid Number](https://leetcode.com/problems/valid-number/)
+- [x] [Valid Number](https://leetcode.com/problems/valid-number/)
 - [ ] [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
 - [ ] [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)

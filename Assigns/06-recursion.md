@@ -73,7 +73,7 @@
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [ ] [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
-- [ ] [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
+- [x] [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
 - [ ] [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 - [ ] [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 - [ ] [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`

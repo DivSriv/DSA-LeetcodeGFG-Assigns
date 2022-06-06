@@ -74,7 +74,7 @@
 - [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`
 - [ ] [Maximize Number of Nice Divisors](https://leetcode.com/problems/maximize-number-of-nice-divisors/) `leetcode`
 - [x] [N Queens](https://leetcode.com/problems/n-queens/) `leetcode`
-- [ ] [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
+- [x] [N Queens II](https://leetcode.com/problems/n-queens-ii/) `leetcode`
 - [ ] [Word break II](https://leetcode.com/problems/word-break-ii/) `leetcode` `Google`
 - [ ] [Unique paths III](https://leetcode.com/problems/unique-paths-iii/) `leetcode`
 - [ ] [Find shortest safe route in a path with landmines](https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/) `GFG` `Google`

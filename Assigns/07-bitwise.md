@@ -7,7 +7,7 @@
 - [x] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Binary Watch](https://leetcode.com/problems/binary-watch/)
-- [ ] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+- [x] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [ ] [Number Complement](https://leetcode.com/problems/number-complement/)
 - [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
 - [ ] [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
@@ -24,6 +24,7 @@
 ## Medium
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
 - [ ] [Subsets II](https://leetcode.com/problems/subsets-ii/)
+<!-- - [ ] [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) -->
 - [ ] [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [x] [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - [ ] [Gray Code](https://leetcode.com/problems/gray-code/)

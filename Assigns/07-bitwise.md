@@ -10,7 +10,7 @@
 - [x] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [ ] [Number Complement](https://leetcode.com/problems/number-complement/)
 - [x] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
-- [ ] [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
+- [x] [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/)
 - [ ] [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)
 - [ ] [Binary Gap](https://leetcode.com/problems/binary-gap/)
 - [x] [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)

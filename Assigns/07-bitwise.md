@@ -20,6 +20,7 @@
 - [x] [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
 - [x] [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)
 - [ ] [Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/)
+- [x] [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/)
 
 ## Medium
 - [x] [Subsets](https://leetcode.com/problems/subsets/)

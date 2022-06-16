@@ -29,7 +29,7 @@
 - [x] [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [x] [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
 - [x] [Gray Code](https://leetcode.com/problems/gray-code/)
-- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [x] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## Hard
 - [ ] [Minimum Number of Flips to convert Binary Matrix to zero matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/)

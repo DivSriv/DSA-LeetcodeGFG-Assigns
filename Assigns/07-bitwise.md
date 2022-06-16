@@ -28,7 +28,7 @@
 - [x] [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
 - [x] [Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [x] [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)
-- [ ] [Gray Code](https://leetcode.com/problems/gray-code/)
+- [x] [Gray Code](https://leetcode.com/problems/gray-code/)
 - [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 
 ## Hard

@@ -17,7 +17,7 @@
 ## Medium
 - - [x] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
 - - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
-- - [ ] [Gray Code](https://leetcode.com/problems/gray-code/)
+- - [x] [Gray Code](https://leetcode.com/problems/gray-code/)
 - - [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - - [ ] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 - - [ ] [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)

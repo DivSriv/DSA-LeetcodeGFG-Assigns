@@ -5,7 +5,7 @@
 2. - [x] - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
 3. - [x] - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
 4. - [x] - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) `leetcode`
-5. - [ ] - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
+5. - [x] - [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) `leetcode`
 6. - [x] - [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) `leetcode` `Snapdeal`
 7. - [x] - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 8. - [x] - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`

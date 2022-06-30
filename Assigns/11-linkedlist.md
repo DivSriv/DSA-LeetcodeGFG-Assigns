@@ -26,7 +26,7 @@
 11. - [x] - [Rotate List](https://leetcode.com/problems/rotate-list/) `leetcode` `Microsoft`
 12. - [ ] - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) `leetcode`
 13. - [ ] - [LRU Cache](https://leetcode.com/problems/lru-cache/) `leetcode`
-14. - [ ] - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
+14. - [x] - [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) `leetcode` `Amex`
 15. - [ ] - [Design Browser History](https://leetcode.com/problems/design-browser-history/) `leetcode`
 16. - [ ] - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 17. - [x] - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG` --[`Same as Linked List Cycle II`](https://leetcode.com/problems/linked-list-cycle-ii/)

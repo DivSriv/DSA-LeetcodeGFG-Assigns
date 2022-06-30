@@ -10,7 +10,7 @@
 7. - [x] - [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) `leetcode`
 8. - [x] - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) `leetcode` `Samsung`
 9. - [x] - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)`leetcode`
-10. - [ ] - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
+10. - [x] - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
 ## Medium
 1. - [ ] - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`

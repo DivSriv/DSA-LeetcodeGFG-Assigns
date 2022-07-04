@@ -2,7 +2,7 @@
 
 ## Easy
 1. - [ ] - [Next greater element I](https://leetcode.com/problems/next-greater-element-i/) `leetcode`
-2. - [ ] - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
+2. - [x] - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
 3. - [ ] - [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 4. - [ ] - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
 5. - [ ] - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`

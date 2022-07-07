@@ -12,7 +12,8 @@
 9. - [ ] - [Inorder Traversal (Iterative)](https://practice.geeksforgeeks.org/problems/inorder-traversal-iterative/1/) `GFG`
 10. - [ ] - [Preorder traversal (Iterative)](https://practice.geeksforgeeks.org/problems/preorder-traversal-iterative/1/) `GFG`
 11. - [ ] - [Flood fill](https://leetcode.com/problems/flood-fill/) `leetcode`
-12. - [ ] - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
+12. - [ ] - [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) `leetcode`
+13. - [ ] - [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) `leetcode`
 
 ## Medium
 1. - [ ] - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`

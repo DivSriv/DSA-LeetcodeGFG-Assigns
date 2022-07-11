@@ -30,7 +30,7 @@
 <!-- - [ ] [ Write a recursive function for given n and a to determine x: `n = a ^ x ;; a = 2, 3, 4;; (2 ^ -31) <= n <= (2 ^ 31) - 1 ` **Not a Link**](Not_a_Link) -->
 
 ## Medium
-- [ ] [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
+- [x] [Combination Sum](https://leetcode.com/problems/combination-sum/) `leetcode`
 - [ ] [Word Search](https://leetcode.com/problems/word-search/) `leetcode`
 - [ ] [Target sum](https://leetcode.com/problems/target-sum/) `leetcode`
 - [ ] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) `leetcode`

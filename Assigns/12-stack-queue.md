@@ -36,8 +36,8 @@
 
 ## Hard
 1. - [ ] - [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
-2. - [ ] - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
-3. - [x] - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+2. - [x] - [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
+3. - [x] - [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) `leetcode`
 4. - [ ] - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 5. - [ ] - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
 6. - [ ] - [Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`

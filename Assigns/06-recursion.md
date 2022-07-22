@@ -67,7 +67,7 @@
 ## Hard
 - [ ] [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) `leetcode`
 - [ ] [Special Binary String](https://leetcode.com/problems/special-binary-string/) `leetcode`
-- [ ] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
+- [x] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) `leetcode`
 - [ ] [Next Happy Number](https://practice.geeksforgeeks.org/problems/next-happy-number4538/1/) `GFG`
 - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/) `leetcode`
 - [ ] [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) `leetcode`

@@ -31,7 +31,7 @@
 
 
 ## Hard
-- - [ ] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
+- - [x] [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)
 - - [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
 - - [ ] [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)
 - - [x] [Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)

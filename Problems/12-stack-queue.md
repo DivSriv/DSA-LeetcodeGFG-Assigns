@@ -31,7 +31,7 @@
 13. - [ ] - [Max Rectangle](https://practice.geeksforgeeks.org/problems/max-rectangle/1/) `GFG`
 14. - [ ] - [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1/) `Google` `GFG`
 15. - [x] - [Maximum Rectangular Area in a Histogram](https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1/) `GFG`
-16. - [ ] - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
+16. - [x] - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) `leetcode`
 17. - [ ] - [Snake and Ladders](https://leetcode.com/problems/snakes-and-ladders/) `leetcode`
 
 ## Hard

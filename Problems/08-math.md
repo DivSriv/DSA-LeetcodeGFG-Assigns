@@ -20,7 +20,7 @@
 - - [x] [Gray Code](https://leetcode.com/problems/gray-code/)
 - - [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
 - - [ ] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
-- - [ ] [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
+- - [x] [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 - - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - - [ ] [The k<sup>th</sup> Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
 - - [x] [Queries on Number of Points Inside a Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/)

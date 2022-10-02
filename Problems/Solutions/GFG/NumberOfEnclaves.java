@@ -17,12 +17,15 @@ grid[][] = {{0, 0, 0, 0},
             {0, 0, 0, 0}}
 Output:
 3
+
 Explanation:
 0 0 0 0
 1 0 1 0
 0 1 1 0
 0 0 0 0
 The highlighted cells represents the land cells.
+
+
 Example 2:
 
 Input:
@@ -33,6 +36,7 @@ grid[][] = {{0, 0, 0, 1},
             {0, 1, 1, 0}}
 Output:
 4
+
 Explanation:
 0 0 0 1
 0 1 1 0
@@ -40,6 +44,8 @@ Explanation:
 0 0 0 1
 0 1 1 0
 The highlighted cells represents the land cells.
+
+
 Your Task:
 
 You don't need to print or input anything. Complete the function numberOfEnclaves() which takes a 2D integer matrix grid as the input parameter and returns an integer, denoting the number of land cells.

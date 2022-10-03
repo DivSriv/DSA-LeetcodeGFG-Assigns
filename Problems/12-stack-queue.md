@@ -41,4 +41,4 @@
 4. - [ ] - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 5. - [ ] - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
 6. - [ ] - [Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`
-7. - [ ] - [Count number of islands](https://leetcode.com/problems/number-of-islands/) `leetcode`
+7. - [x] - [Count number of islands](https://leetcode.com/problems/number-of-islands/) `leetcode`

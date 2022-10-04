@@ -33,7 +33,7 @@ Expected Auxiliary Space: O(sum*N)
 Constraints:
 1 <= N <= 100
 1<= arr[i] <= 100
-1<= sum <= 105
+1<= sum <= 10^5
 */
 
 

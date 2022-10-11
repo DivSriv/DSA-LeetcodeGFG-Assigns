@@ -14,7 +14,7 @@
 
 ## Medium
 1. - [ ] - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
-2. - [ ] - [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
+2. - [ ] - [Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
 3. - [x] - [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 4. - [x] - [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
 5. - [x] - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
@@ -33,17 +33,17 @@
 18. - [ ] - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 19. - [ ] - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
 20. - [x] - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`
-21. - [ ] - [ Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
-22. - [ ] - [ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
+21. - [ ] - [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
+22. - [ ] - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
 23. - [x] - [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`
-24. - [ ] - [ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
+24. - [ ] - [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
 25. - [ ] - [Design Browser History](https://leetcode.com/problems/design-browser-history/)`leetcode`
 26. - [x] - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)`leetcode`
 27. - [ ] - [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`leetcode`
-28. - [ ] - [ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
+28. - [x] - [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
 29. - [ ] - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
 30. - [ ] - [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
-31. - [ ] - [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
+31. - [ ] - [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
 
 ## Hard
 1. - [x] - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`

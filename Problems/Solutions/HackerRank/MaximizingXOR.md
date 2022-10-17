@@ -8,12 +8,29 @@
 Solution:
 ```js
 
-#include <bits/stdc++.h>
+'use strict';
 
-using namespace std;
+const fs = require('fs');
 
-string ltrim(const string &);
-string rtrim(const string &);
+process.stdin.resume();
+process.stdin.setEncoding('utf-8');
+
+let inputString = '';
+let currentLine = 0;
+
+process.stdin.on('data', function(inputStdin) {
+    inputString += inputStdin;
+});
+
+process.stdin.on('end', function() {
+    inputString = inputString.split('\n');
+
+    main();
+});
+
+function readLine() {
+    return inputString[currentLine++];
+}
 
 /*
  * Complete the 'maximizingXor' function below.
@@ -24,53 +41,33 @@ string rtrim(const string &);
  *  2. INTEGER r
  */
 
-int maximizingXor(int l, int r) {
-
+function maximizingXor(l, r) {
+    // Write your code here
+    
+    let max=0
+    for(let i=l;i<=r;i++){
+        for(let j=i;j<=r;j++){
+            let temp=j^i
+            if(temp>max){
+                max=temp
+            }
+        }
+    }    
+    return max
 }
 
-int main()
-{
-    ofstream fout(getenv("OUTPUT_PATH"));
+function main() {
+    const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
 
-    string l_temp;
-    getline(cin, l_temp);
+    const l = parseInt(readLine().trim(), 10);
 
-    int l = stoi(ltrim(rtrim(l_temp)));
+    const r = parseInt(readLine().trim(), 10);
 
-    string r_temp;
-    getline(cin, r_temp);
+    const result = maximizingXor(l, r);
 
-    int r = stoi(ltrim(rtrim(r_temp)));
+    ws.write(result + '\n');
 
-    int result = maximizingXor(l, r);
-
-    fout << result << "\n";
-
-    fout.close();
-
-    return 0;
-}
-
-string ltrim(const string &str) {
-    string s(str);
-
-    s.erase(
-        s.begin(),
-        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
-    );
-
-    return s;
-}
-
-string rtrim(const string &str) {
-    string s(str);
-
-    s.erase(
-        find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-        s.end()
-    );
-
-    return s;
+    ws.end();
 }
 
 

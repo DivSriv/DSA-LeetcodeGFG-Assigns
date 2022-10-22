@@ -5,7 +5,7 @@
 2. - [x] - [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) `leetcode`
 3. - [ ] - [Min Stack](https://leetcode.com/problems/min-stack/) `leetcode`
 4. - [ ] - [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) `leetcode`
-5. - [ ] - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
+5. - [x] - [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) `leetcode`
 6. - [ ] - [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) `leetcode`
 7. - [ ] - [Reverse First K elements of Queue](https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1/) `GFG`
 8. - [ ] - [Delete middle element of a stack](https://practice.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1/) `GFG`

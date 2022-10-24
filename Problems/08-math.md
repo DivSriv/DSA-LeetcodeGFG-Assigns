@@ -28,6 +28,7 @@
 - - [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
 - - [ ] [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/)
 - - [ ] [Integer Break](https://leetcode.com/problems/integer-break/)
+- - [x] [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/)
 
 
 ## Hard

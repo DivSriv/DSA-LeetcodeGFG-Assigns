@@ -31,7 +31,7 @@
 16. - [ ] - [Partition list](https://leetcode.com/problems/partition-list/) `leetcode`
 17. - [x] - [Find first node of loop in a linked list](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/) `GFG` --[`Same as Linked List Cycle II`](https://leetcode.com/problems/linked-list-cycle-ii/)
 18. - [ ] - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
-19. - [ ] - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
+19. - [x] - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
 20. - [x] - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`
 21. - [ ] - [Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
 22. - [ ] - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
